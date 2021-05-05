@@ -11,4 +11,4 @@ Notebook Here you will find the algorithm in R, and the graphs to visualize the 
 Visualize COVID-19 data from the first several weeks of the outbreak to see at what point this virus became a global pandemic. Can we see any effect from country-wide policies, like shutdowns and quarantines?
 
 # Source credit
-Datacamp for the platform to practice data visualization on the coronavirus dataset. Much appreciated! https://projects.datacamp.com/projects/870
+Datacamp for the platform to practice data visualization on the coronavirus dataset.
